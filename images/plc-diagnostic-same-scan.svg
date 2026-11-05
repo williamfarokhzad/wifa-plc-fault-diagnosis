@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 548" width="1080" height="548" font-family="DejaVu Sans, sans-serif">
+<rect width="1080" height="548" rx="24" fill="#f5f8f6"/>
+<text x="43" y="59" font-size="36" fill="#162f34" font-weight="700" text-anchor="start">Keep both alarms in a tie</text>
+<text x="43" y="95" font-size="22" fill="#162f34" font-weight="500" text-anchor="start">The drive fault and feedback timeout first appear in the same row.</text>
+<text x="43" y="124" font-size="20" fill="#3d5a5d" font-weight="500" text-anchor="start">Synthetic data  |  10 ms sample interval  |  30 ms feedback window</text>
+<path d="M246 155 V395" stroke="#bacac7" stroke-dasharray="4 6"/>
+<text x="246" y="425" font-size="21" fill="#162f34" font-weight="500" text-anchor="middle">0</text>
+<path d="M362 155 V395" stroke="#bacac7" stroke-dasharray="4 6"/>
+<text x="362" y="425" font-size="21" fill="#162f34" font-weight="500" text-anchor="middle">10</text>
+<path d="M478 155 V395" stroke="#bacac7" stroke-dasharray="4 6"/>
+<text x="478" y="425" font-size="21" fill="#162f34" font-weight="500" text-anchor="middle">20</text>
+<path d="M594 155 V395" stroke="#bacac7" stroke-dasharray="4 6"/>
+<text x="594" y="425" font-size="21" fill="#162f34" font-weight="500" text-anchor="middle">30</text>
+<path d="M710 155 V395" stroke="#bacac7" stroke-dasharray="4 6"/>
+<text x="710" y="425" font-size="21" fill="#162f34" font-weight="500" text-anchor="middle">40</text>
+<path d="M710 156 V392" stroke="#8b5016" stroke-width="2"/>
+<circle cx="710" cy="151" r="13" fill="#8b5016"/>
+<text x="710" y="158" font-size="18" fill="#ffffff" font-weight="700" text-anchor="middle">1</text>
+<path d="M826 155 V395" stroke="#bacac7" stroke-dasharray="4 6"/>
+<text x="826" y="425" font-size="21" fill="#162f34" font-weight="500" text-anchor="middle">50</text>
+<path d="M942 155 V395" stroke="#bacac7" stroke-dasharray="4 6"/>
+<text x="942" y="425" font-size="21" fill="#162f34" font-weight="500" text-anchor="middle">60</text>
+<text x="43" y="198" font-size="21" fill="#00616a" font-weight="700" text-anchor="start">Run command</text>
+<text x="224" y="184" font-size="18" fill="#162f34" font-weight="500" text-anchor="start">1</text>
+<text x="224" y="214" font-size="18" fill="#162f34" font-weight="500" text-anchor="start">0</text>
+<path d="M246 208 H362 V178 H478 V178 H594 V178 H710 V178 H826 V178 H942 V208 h36" fill="none" stroke="#00616a" stroke-width="5" stroke-linejoin="round"/>
+<circle cx="246" cy="208" r="5" fill="#00616a"/>
+<circle cx="362" cy="178" r="5" fill="#00616a"/>
+<circle cx="478" cy="178" r="5" fill="#00616a"/>
+<circle cx="594" cy="178" r="5" fill="#00616a"/>
+<circle cx="710" cy="178" r="5" fill="#00616a"/>
+<circle cx="826" cy="178" r="5" fill="#00616a"/>
+<circle cx="942" cy="208" r="5" fill="#00616a"/>
+<text x="43" y="277" font-size="21" fill="#354c83" font-weight="700" text-anchor="start">Run feedback</text>
+<text x="224" y="263" font-size="18" fill="#162f34" font-weight="500" text-anchor="start">1</text>
+<text x="224" y="293" font-size="18" fill="#162f34" font-weight="500" text-anchor="start">0</text>
+<path d="M246 287 H362 V287 H478 V287 H594 V287 H710 V287 H826 V287 H942 V287 h36" fill="none" stroke="#354c83" stroke-width="5" stroke-linejoin="round"/>
+<circle cx="246" cy="287" r="5" fill="#354c83"/>
+<circle cx="362" cy="287" r="5" fill="#354c83"/>
+<circle cx="478" cy="287" r="5" fill="#354c83"/>
+<circle cx="594" cy="287" r="5" fill="#354c83"/>
+<circle cx="710" cy="287" r="5" fill="#354c83"/>
+<circle cx="826" cy="287" r="5" fill="#354c83"/>
+<circle cx="942" cy="287" r="5" fill="#354c83"/>
+<text x="43" y="356" font-size="21" fill="#923e21" font-weight="700" text-anchor="start">Drive fault</text>
+<text x="224" y="342" font-size="18" fill="#162f34" font-weight="500" text-anchor="start">1</text>
+<text x="224" y="372" font-size="18" fill="#162f34" font-weight="500" text-anchor="start">0</text>
+<path d="M246 366 H362 V366 H478 V366 H594 V366 H710 V336 H826 V336 H942 V366 h36" fill="none" stroke="#923e21" stroke-width="5" stroke-linejoin="round"/>
+<circle cx="246" cy="366" r="5" fill="#923e21"/>
+<circle cx="362" cy="366" r="5" fill="#923e21"/>
+<circle cx="478" cy="366" r="5" fill="#923e21"/>
+<circle cx="594" cy="366" r="5" fill="#923e21"/>
+<circle cx="710" cy="336" r="5" fill="#923e21"/>
+<circle cx="826" cy="336" r="5" fill="#923e21"/>
+<circle cx="942" cy="366" r="5" fill="#923e21"/>
+<text x="43" y="425" font-size="22" fill="#162f34" font-weight="700" text-anchor="start">Time (ms)</text>
+<rect x="43" y="454" width="994" height="65" rx="10" fill="#e7efea"/>
+<text x="60" y="495" font-size="24" fill="#162f34" font-weight="700" text-anchor="start">1  Both alarms observed at 40 ms. Their order is unknown.</text>
+</svg>
